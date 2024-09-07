@@ -5,6 +5,7 @@ This project demonstrates the application of data mining techniques to analyze t
 
 
 Overview 
+
 The goal of this project is to preprocess and analyze a dataset of tweets to extract meaningful insights using machine learning techniques. The project involves:
 Text cleaning and preprocessing (tokenization, removing contractions, etc.).
 Visualization using word clouds.
@@ -21,32 +22,45 @@ Project Structure
 
 
 Requirements 
+
 Python 3.x
+
 Jupyter Notebook
+
 mlxtend
+
 wordcloud
+
 termcolor
+
 contractions
 
 
 Installation 
+
 Clone this repository to your local machine:
 git clone https://github.com/yourusername/your-repo-name.git
+
 cd your-repo-name
+
 Install the required Python libraries:
 pip install -r requirements.txt
 
 
 Usage 
+
 Open the Jupyter Notebook:
 jupyter notebook Mining_CA_two.ipynb
+
 Follow the steps in the notebook to run the code and explore the analysis.
 
 
 Dataset 
+
 The dataset used in this project contains tweets, which are analyzed for sentiment and other patterns. The file Tweets.csv contains the raw data.
 
 
 Acknowledgements 
+
 This project was developed as part of a data mining and machine learning coursework. Special thanks to the open-source libraries and datasets used in this project.
 

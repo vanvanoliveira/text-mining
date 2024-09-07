@@ -12,8 +12,11 @@ Bag of Words (BoW) model for feature extraction.
 
 
 Project Structure 
+
 ├── Mining_CA_two.ipynb   # Main Jupyter Notebook with code and analysis
+
 ├── Tweets.csv            # Dataset used in the project
+
 ├── README.md             # Project documentation
 
 

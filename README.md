@@ -1,4 +1,6 @@
 Data Mining and Machine Learning Project
+
+
 This project demonstrates the application of data mining techniques to analyze textual data. The main focus is on text preprocessing and the Bag of Words (BoW) model, which converts textual information into a numerical format for machine learning.
 
 
